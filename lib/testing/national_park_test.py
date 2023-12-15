@@ -21,7 +21,7 @@ class TestNationalParks:
         # uncomment the next two lines if using Exceptions
         # with pytest.raises(Exception):
         #     NationalPark(2)
-        
+
         # uncomment the next two lines if using Exceptions
         # with pytest.raises(Exception):
         #     NationalPark("me")
